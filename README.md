@@ -1,134 +1,124 @@
-# Awesome Language Learning
-A curated list of amazing projects that help you learn languages.
+# Language Learning [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+Awesome *free* resources for learning languages, from word lists, to images, pronunciations, and links.
 
-- [Awesome Language Learning](#awesome-language-learning)
-  - [Language Learning](#language-learning)
-    - [Dictionaries](#dictionaries)
-    - [Chatbots](#chatbots)
-    - [Learning With Texts (LinQ-like)](#learning-with-texts-linq-like)
-    - [Reader Programs or extensions](#reader-programs-or-extensions)
-    - [Anki (Flashcards)](#anki-flashcards)
-    - [Video Players (or extensions)](#video-players-or-extensions)
-    - [Language Learning Games](#language-learning-games)
-    - [Open Source Games (with a lot of text and translations)](#open-source-games-with-a-lot-of-text-and-translations)
-    - [Courses](#courses)
-    - [Chrome Extensions](#chrome-extensions)
-  - [Developer Resources](#developer-resources)
-    - [Frequency Lists](#frequency-lists)
-    - [Dictionary Data](#dictionary-data)
-    - [Translation](#translation)
-    - [Text To Speech](#text-to-speech)
-    - [NLP](#nlp)
-    - [Speech To Text](#speech-to-text)
-    - [Image generation](#image-generation)
-    - [Other Great Projects](#other-great-projects)
-  - [Useful Resources](#useful-resources)
-  - [Contributing](#contributing)
-## Language Learning
+# General
 
-### Dictionaries
-* [wikdict-gen](https://github.com/karlb/wikdict-gen) - For 20 popular languages this project offers a downloadable dictionary in many formats for each language pair.
-* [ebook-reader-dict](https://github.com/BoboTiG/ebook-reader-dict) - 14 monolingual dictionaries extracted from Wiktionary in several languages.
-* [Wiktionary-Dictionaries](https://github.com/Vuizur/Wiktionary-Dictionaries) - Dictionaries extracted from the English Wiktionary, supporting 300+ languages with definitions in English.
-* [dictionariez](https://github.com/pnlpal/dictionariez) - A browser extension to look up words on web pages.
-* [3ammiya](https://3ammiya.com) - Free Egyptian Arabic dictionary with 6,000+ slang entries, Arabic script and Franco transliteration.
+**Key:**
+- 💰 = "freemium model" (where the free tier isn't totally worthless).
+- ⌛️ = "no updates in past year"
+## 🗺 Guides
+- [S A J Forbes' Guide](https://sajforbes.nz/languageguide/introduction/)
 
-### Chatbots
-* [ChatGPT](https://chat.openai.com/) - very good for practicing a wide variety for languages. Especially with the new version that can listen and reply to you in voice (freely available in the app).
-  
-### Learning With Texts (LinQ-like)
-These applications allow you to read texts with an integrated system to look up words, mark them as known, and track your progress.
-* [trunk](https://github.com/theiceshelf/trunk) - Very pretty UI, works pretty well (although the author says it's unstable) and supports 8 languages.
-* [lwt](https://github.com/HugoFara/lwt) - A self-hosted version (requires a bit of effort to get running) with a long history.
-* [Lute](https://github.com/LuteOrg/lute-v3) - Learning Using Texts (Lute). A partial rewrite of lwt.
+## 📀 Resources
+- [All Language Resources](https://www.alllanguageresources.com/): Highly curated. Highly recommended. These guys are like consumer reports for language learning.
+- [r/languagelearning](https://www.reddit.com/r/languagelearning/wiki/index): Reddit's language-learning subreddit.
+- [cstrobbe](https://cstrobbe.gitlab.io/languagelearning/)
+- [LearnALanguage.com](https://www.learnalanguage.com/): Reference for vocabulary, phrases, and courses.
+- [OpenCulture](https://www.openculture.com/freelanguagelessons): A portal to hundreds of other sites.
+- ⌛️ [Learn Any Language](https://learnanylanguage.fandom.com/wiki/Learn_Any_Language): A community wiki
+- ⌛️ [So you want to learn a language](https://sites.google.com/site/soyouwanttolearnalanguage/home): Lots of asian languages, but not maintained since 2014.
+- [Rhinospike](https://rhinospike.com/): Forvo's cousin for longer audio fragments.
+- [Goethe-verlag](https://www.goethe-verlag.com/book2/EN/): Non-crowdsourced phrases
+- ⌛️ [Language Guide](https://www.languageguide.org/): Great interactive depictions of basic theme-based vocabulary.
+- ⌛️ [Frequency Lists](https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists): Study smart and begin with the most common vocabulary.
+## 🎓 Courses
+- [Duolingo](https://duolingo.com/): Doesn't really need explanation.
+- [LiveLingua](https://www.livelingua.com/project): Thousands of hours of content over more than 130 languages.
+- ⌛️ [Yojik](https://fsi-languages.yojik.eu/): A compilation of Foreign Service Institute (FSI), Defense Language Institute (DLI), & Peace-Corps courses (and then some!)
+- [CoffeeBreak Languages](https://coffeebreaklanguages.com/): Audio-based listen-and-repeat.
+- [Language Transfer](https://www.languagetransfer.org/): Audio-based listen-and-repeat.
 
-### Reader Programs or extensions
-* [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - An manga reader that can fetch manga in many different languages.
-* [KOReader](https://github.com/koreader/koreader) - An open source ebook reader app that runs on many devices and has a lot of integrated dictionaries that can be downloaded with one click.
-* [WordDumb](https://github.com/xxyzz/WordDumb) - A program that edits ebooks so that simplified definitions are shown over complicated words. It also supports generating Kindle X-Ray.
-* [fluentcards](https://github.com/katspaugh/fluentcards) - A website that allows you to turn your kindle lookups into Anki flashcards
+## 📚 Dictionaries
+- [Wiktionary](https://www.wiktionary.org/)
+- [Wordreference](https://wordreference.com/)
+- [Bab.la](https://bab.la/)
+- [Linguee](https://www.linguee.com/)
+- [Reverso](https://www.reverso.net/text-translation)
+- [Tatoeba](https://tatoeba.org/en/): Focuses on helping you find example sentences
+- [Forvo](https://forvo.com/): *the* pronunciation dictionary. (💰 API)
+- [Cooljugator](https://cooljugator.com/): for verb conjugations
+- [conjugio](https://conjugio.com/): also for verb conjugations
+- [3ammiya](https://3ammiya.com): Egyptian Arabic dictionary with 6,000+ slang entries, Arabic and Franco
 
-### Anki (Flashcards)
-* [AnkiDroid](https://github.com/ankidroid/Anki-Android) - The free Anki Android client for the most popular flashcard software - the [desktop version](https://apps.ankiweb.net/) is free as well.
-* [vocabsieve](https://github.com/FreeLanguageTools/vocabsieve) - A program that allows to easily add sentences you read to Anki. Per flashcard the focus always lies on one word, with automatically fetched translations + pronunciation.
-* [tatoeba-to-anki](https://github.com/Vuizur/tatoeba-to-anki) - A project that allows you to generate Anki decks with translations.
-* [ankigenbot](https://github.com/damaru2/ankigenbot) - A telegram bot that automatically creates Anki flashcards for words you send to it.
-* [FSRS4Anki](https://github.com/open-spaced-repetition/fsrs4anki) - An optimized spaced repetition algorithm that should minimize review time.
-* [vocage](https://github.com/proycon/vocage) - A spaced repetition program in the terminal
+## 📥 Input
+- 💰 [Language Reactor](https://www.languagereactor.com): A browser extension to investigate subtitles on YouTube, Netflix, and more. 
+- 💰 [ReadLang](https://readlang.com/): Similar to Language Reactor but geared more to written resources. With a built-in flashcard system.
+- [Language Input](https://www.languageinput.com/): A layer on top of Youtube with subtitles you can interrogate
+- [Eja.tv](https://eja.tv/): Watch international TV channels from anywhere.
 
-### Video Players (or extensions)
-* [mpvacious](https://github.com/Ajatt-Tools/mpvacious) - Allows you to automatically create Anki flashcards out of the TV shows you are watching.
-* [Immersive](https://github.com/Ben-Kerman/immersive) - A similar program to mpvacious.
-* [voracious](https://github.com/rsimmons/voracious) - A video player that has several features directed at language learning.
-* [subadub](https://github.com/rsimmons/subadub) - An extension for Netflix that allows downloading SRT and makes them copyable (so that you can look up the words).
+## 🗃 Flashcards
 
-### Language Learning Games
-* [LibreLingo](https://github.com/LibreLingo/LibreLingo) - An open-source Duolingo-like game.
-* [Game2Text](https://github.com/mathewthe2/Game2Text) - A program that makes it easy to look up words in Visual Novels.
+- [Anki](https://apps.ankiweb.net/): *the* flashcard app. (💰 mobile app)
+- 💰 [Memrise](https://www.memrise.com/)
+- 💰 [Quizlet](https://quizlet.com/)
+- [conjugio](https://conjugio.com/): practice verb conjugations
 
-### Open Source Games (with a lot of text and translations)
-* [Unciv](https://github.com/yairm210/Unciv) - Awesome strategy game (Civ 5 remake) with very low resource requirements and great desktop + mobile support.
-* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Very polished roguelike with pixel graphics and desktop + mobile support.
-* [Widelands](https://github.com/widelands/widelands) - A strategy game inspired by Settlers 2.
-* [Pathos](https://github.com/callanh/pathos-official) - A roguelike game with desktop + mobile support inspired by Nethack.
-* [Cataclysm: Dark Days Ahead](https://github.com/CleverRaven/Cataclysm-DDA/tree/master) - A zombie roguelike game with a huge amount of content.
-* [0 A.D.](https://play0ad.com/) - A strategy game inspired by Age Of Empires.
-* [Battle of Wesnoth](https://github.com/wesnoth/wesnoth) - Turn based strategy game with a huge amount of content.
-* [OpenTTD](https://github.com/OpenTTD/OpenTTD) - A simulation game based upon Transport Tycoon Deluxe.
-* [Veloren](https://veloren.net/) - A voxel RPG inspired by Cube World and Minecraft.
+## 💱 Exchange
 
-### Courses
-* [Language Transfer](https://github.com/language-transfer/lt-app) - An app that offers completely free audio courses for several languages.
+- [Tandem](https://www.tandem.net/)
+- [HelloTalk](https://www.hellotalk.com/?lang=en)
 
-### Chrome Extensions
-* [word-discoverer](https://github.com/mechatroner/word-discoverer) - An extension that highlights rare words in texts.
-* [pronounce](https://github.com/filipeisho/pronounce) - An extension that correctly pronounces words.
+# Language-specific
 
-## Developer Resources
+Lists of language-specific resources. Most are maintained (or not maintained) in other repositories.
 
-### Frequency Lists
-* [wordfreq](https://github.com/rspeer/wordfreq) - A great Python library that contains frequency data for 44 languages.
+## Europe
+- [English](/languages/en) 🇺🇸 🇬🇧 🇦🇺 🇨🇦 🇮🇪 🇳🇿
+- [Español (Spanish)](/languages/es) 🇪🇸 🇲🇽 🇨🇴 
+- [Français (French)](/languages/fr) 🇫🇷 🇨🇦 
+- [Italiano (Italian)](/languages/it) 🇮🇹 
+- [Deutsch (German)](/languages/de) 🇩🇪 
+- [Nederlands (Dutch)](/languages/nl) 🇳🇱
+- [Português (Portuguese)](/languages/pt) 🇧🇷 🇵🇹 🇲🇿
+- [Dansk (Danish)](/languages/da) 🇩🇰
+- [Svenska (Swedish)](/languages/sv) 🇸🇪
+- [Norsk (Norwegian)](/languages/no) 🇳🇴
+- [íslenska (Icelandic)](/languages/is) 🇮🇸
+- [Eλληνικά (Greek)](/languages/el) 🇬🇷 🇨🇾
+- [Suomi (Finnish)](/languages/fi) 🇫🇮
+- [украї́нська (Ukrainian)](/languages/uk) 🇺🇦
+- [русский (Russian)](/languages/ru) 🇷🇺
+- [Polski (Polish)](/languages/pl) 🇵🇱
+- [Magyar nyelv (Hungarian)](/languages/hu) 🇭🇺
+- [Čeština (Czech)](/languages/cs) 🇨🇿
+- [Slovenčina (Slovak)](/languages/sk) 🇸🇰
+- [Românește (Romanian)](/languages/ro) 🇷🇴
 
-### Dictionary Data
-* [wiktextract](https://github.com/tatuylonen/wiktextract) - A very high quality extracted JSON version of Wiktionary, with the English one containing over 8 million entries in 300+ languages with a huge amount of metadata. Supports currently 6 Wiktionaries, download the extracted data [here](https://kaikki.org/dictionary/rawdata.html).
-* [Ultimate Dictionary API](https://github.com/Vuizur/ultimate-dictionary-api) - A free dictionary API that supports all languages.
-* [The KOReader dictionary list](https://github.com/koreader/koreader/blob/master/frontend/ui/data/dictionaries.lua) - Direct links to hundreds of free Stardict dictionaries.
-* [pyglossary](https://github.com/ilius/pyglossary) - Amazing library for the creation and conversion of dictionaries in a huge amount of formats.
-* [wordnet-as-a-service](https://github.com/jacopofar/wordnet-as-a-service) - A REST interface for WordNet.
-* [Proficiency](https://github.com/xxyzz/Proficiency/tree/master) - A library that extracts short definitions from kaikki data.
-* [dictcc-stardict](https://github.com/Linus789/dictcc-stardict) - Tool to convert the dict.cc dictionaries to stardict format.
+## Middle East & Africa
+- [(Arabic) العربية](/languages/ar) 🇸🇦
+- [(Farsi)  فارسی](/languages/fa) 🇮🇷
+- [Türkçe](/languages/tr) 🇹🇷
+- [(Hebrew) עִבְרִית](/languages/he) 🇮🇱
 
-### Translation
-* [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
-* [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py)
-* [Argos-Translate](https://github.com/argosopentech/argos-translate)
+## Asia
+- [官话 (Mandarin)](/languages/zh/cmn/) 🇨🇳
+- [广东话 (Cantonese)](/languages/zh/yue/) 🇭🇰
+- [한국어 (Korean)](/languages/ko) 🇰🇷
+- [日本語 (Japanese)](/languages/ja) 🇯🇵
+- [हिन्दी (Hindi)](/languages/hi) 🇮🇳
+- [(Urdu) اُردُو](/languages/ur) 🇵🇰
+- [Bahasa Indonesia / Bahasa Melayu Malaysia](/languages/id) 🇮🇩 🇲🇾
+- [Tagalog](/languages/tl) 🇵🇭
+- [Tiếng-việt (Vietnamese)](/languages/vi) 🇻🇳
+- [ภาษาไทย (Thai)](/languages/th) 🇹🇭
 
-### Text To Speech
-* [edge-tts](https://github.com/rany2/edge-tts) - A Python library the uses the reverse engineered Text To Speech API of the Edge browser, producing extremely high quality output.
-* [Coqui TTS](https://github.com/coqui-ai/TTS) - An entirely open source Python library running locally.
+## Conlangs / Dead languages
+- [Latīnum (Latin)](/languages/la) 🦅
+- [Toki pona](/languages/tp) ☀️
 
-### NLP
-* [spaCy](https://github.com/explosion/spaCy) - A great library that can do everything: tokenization, lemmatization, named entity recognition, and much more.
-  
-### Speech To Text
-* [Whisper](https://github.com/openai/whisper) - OpenAI's amazing project that delivers extremely good results (except for low-resource languages).
-* [whisper.cpp](https://github.com/ggerganov/whisper.cpp) - A version of Whisper that runs much faster on the CPU, it even supports browser through WASM.
 
-### Image generation
-You need illustrations for your project? Look no further.
-* [Stable diffusion](https://github.com/CompVis/stable-diffusion) - An amazing open source generator that made huge waves on its release.
-* [AUTOMATIC1111's webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - This is what you should install if you want to use Stable Diffusion locally.
-* [Camenduru's notebooks](https://github.com/camenduru/stable-diffusion-webui-colab) - A simple one click way to use Stable Diffusion on Google Colab (if you don't have a good graphics card).
-* [civitai](https://github.com/civitai/civitai) - A website that contains all kinds of models, optimized for different aesthetics.
+# FAQ 
+## Why create another online collection of language-learning resources?
+Almost every online collection of language-learning resources is poorly maintained, and a lot of resources are behind paywalls. It seemed a good idea to make this collection more of a community effort and that Github would be ideal for such an effort. Also, existing repos, like [this one](https://github.com/melling/LanguageLearning) were in desperate need of a make over.
 
-### Other Great Projects
-* [WantWords](https://github.com/thunlp/WantWords) - A reverse dictionary that can find words based on the definitions you type (and works surprisingly well).
+The other main motivation was to compile actual vocab lists in one place. [Read more.](/freqlists)
 
-## Useful Resources
+## [Flags are not languages](http://www.flagsarenotlanguages.com/blog/why-flags-do-not-represent-language/)
+Yes, but colorful flags are eye candy & github clickbait is a thing. Sorry to anyone this offends.
 
-* [Free Language Tools Wiki](https://wiki.freelanguagetools.org/quickstart) - Has a lot of useful tips and links, written by the vocabsieve maintainer.
-* [Low resource languages](https://github.com/RichardLitt/low-resource-languages) - A Github repo containing many links to projects about low resource languages
-* [Language-learning](https://github.com/tigertv/language-learning) - A Github repo with many links to language learning resources
+## You missed language XYZ
+This list is anything but exhaustive, so feel free to file a PR.
 
-## Contributing
-If you have ideas about what to add or see some description that is inaccurate or you want to add one, send a pull request or open an issue.
+
+## But what if I want to pay for language-learning resources?
+Open an issue, and we can reconsider the "only free resources" stance.
